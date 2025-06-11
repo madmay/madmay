@@ -36,14 +36,6 @@ I’m a passionate and performance-driven Java Backend Developer with 3.3 years 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
----
-
-### 📈 What I’m Working On
-
-- Enhancing my knowledge of **System Design** and **Design Patterns**
-- Building backend mini-projects using **Spring Boot + Docker + AWS**
-- Contributing to open-source and collaborative Java-based projects
-- Practicing DSA and Java 8+ features for clean, efficient code
 
 ---
 
@@ -51,7 +43,6 @@ I’m a passionate and performance-driven Java Backend Developer with 3.3 years 
 
 - 📧 Email: mayurnaik5455@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/mayurnaik21/
-- 🔗 Portfolio/Blog (if any): 
 
 ---
 
