@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### ℹ️ About Me
 
 I’m a passionate and performance-driven Java Backend Developer with 3.3 years of experience in building scalable and maintainable backend systems. Currently working at NCS Group, I specialize in designing and implementing robust microservices-based applications using Java, Spring Boot, Hibernate, Kafka, MySQL, Redis, Docker, Jenkins, AWS, and Kubernetes. I follow best practices in software design, REST API development, and CI/CD workflows to deliver high-quality, production-ready code.
 
