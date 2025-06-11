@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mayur Naik
+# 🧑‍💻 Mayur Naik
 
 🚀 Java Backend Developer | Spring Boot | Microservices | Kafka | Kubernetes | AWS
 
