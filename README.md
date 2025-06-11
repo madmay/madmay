@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Mayur Naik
 
 🚀 Java Backend Developer | 3.3 Years Experience | Spring Boot | Microservices | DevOps Enthusiast
 
@@ -33,9 +33,9 @@ I’m a passionate and performance-driven **Java Backend Developer** with over 3
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🔗 Portfolio/Blog (if any): [Your Personal Site or Blog]
+- 📧 Email: mayurnaik5455@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mayurnaik21/
+- 🔗 Portfolio/Blog (if any): 
 
 ---
 
