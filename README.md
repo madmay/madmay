@@ -10,15 +10,19 @@ I’m a passionate and performance-driven **Java Backend Developer** with over 3
 
 ---
 
-### 🛠️ Technical Skills
-
-- **Languages & Frameworks**: Java, Spring Boot, Spring Data JPA, Hibernate, RESTful APIs  
-- **Architecture**: Microservices, N-Tier Architecture  
-- **Databases**: MySQL, PostgreSQL, Oracle  
-- **DevOps & Cloud**: Docker, Jenkins, AWS (EC2, S3, RDS), CI/CD  
-- **Testing**: JUnit, Mockito  
-- **Tools**: Git, Maven, SonarQube, Swagger, Postman  
-- **Practices**: Agile, Scrum, SDLC, TDD, Code Review
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-45C1C1?style=for-the-badge&logo=mockito&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ---
 
