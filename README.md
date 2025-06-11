@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mayur Naik
 
-🚀 Java Backend Developer | 3.3 Years Experience | Spring Boot | Microservices | DevOps Enthusiast
+🚀 Java Backend Developer | 3.3 Years Experience | Spring Boot | Microservices
 
 ---
 
